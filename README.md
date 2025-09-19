@@ -33,3 +33,8 @@ rgb: rgb(0,0, 255)
 rgb: rgba(0,0, 255,0.3)
 rgba
 hsl : hsl(230,40%,60%)
+
+margin
+padding
+
+flex and grid
